@@ -13,5 +13,10 @@ Welcome to my independent investment research library. This repository contains 
 ### 🌾 Materials & Upstream Inputs
 * **[North American Nitrogen Cost Curve Report (PDF)](<./library/materials-inputs/THE-NITROGEN-CURVE.pdf>)**
   * *Focus:* Deep-dive 46-page industry structural analysis mapping corporate margin durability, global feedstock arbitrage, and nitrogen cost-curve mechanics.
+
+### 🛠️ Precious Metals
+* **[AYA Gold & Silver – Equity Research & Valuation (PDF)](./library/precious-metals/AYA-modeling&Valuation.pdf)** — *Published: 26 June 2025 *
+  * *Focus:* Asset quality mapping, multi-tier cost curves, and dynamic DCF sensitivity modeling tracking corporate margin durability.
+    
 ---
 *Verified Track Record — All analysis is permanently timestamped via version control.*
