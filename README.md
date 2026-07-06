@@ -12,6 +12,6 @@ Welcome to my independent investment research library. This repository contains 
 
 ### 🌾 Materials & Upstream Inputs
 * **[North American Nitrogen Cost Curve Report (PDF)](<./library/materials-inputs/THE-NITROGEN-CURVE.pdf>)**
-  * *Focus:* Deep-dive 45-page industry structural analysis mapping corporate margin durability, global feedstock arbitrage, and nitrogen cost-curve mechanics.
+  * *Focus:* Deep-dive 46-page industry structural analysis mapping corporate margin durability, global feedstock arbitrage, and nitrogen cost-curve mechanics.
 ---
 *Verified Track Record — All analysis is permanently timestamped via version control.*
