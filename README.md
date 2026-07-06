@@ -15,7 +15,7 @@ Welcome to my independent investment research library. This repository contains 
   * *Focus:* Deep-dive 46-page industry structural analysis mapping corporate margin durability, global feedstock arbitrage, and nitrogen cost-curve mechanics.
 
 ### 🛠️ Precious Metals
-* **[AYA Gold & Silver – Equity Research & Valuation (PDF)](./library/precious-metals/AYA-modeling&Valuation.pdf)** — *Published: 26 June 2025 *
+* **[AYA Gold & Silver – Equity Research & Valuation (PDF)](./library/precious-metals/AYA-modeling-Valuation.pdf)** — *Published: 26 June 2025 *
   * *Focus:* Asset quality mapping, multi-tier cost curves, and dynamic DCF sensitivity modeling tracking corporate margin durability.
     
 ---
