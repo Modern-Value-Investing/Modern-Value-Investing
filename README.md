@@ -7,7 +7,7 @@ Welcome to my independent investment research library. This repository contains 
 ## 🏛️ Commodity & Hard-Asset Research Library
 
 ### 🛠️ Industrial Metals
-* **[Ero Copper Corp. Value Analysis (PDF)](<./library/industrial-metals/Investment-Memorandum-ERO-Copper.pdf>)**
+* **[Ero Copper Corp. Value Analysis (PDF)](<./library/precious-metals/Investment-Memorandum-ERO-Copper.pdf>)**
   * *Focus:* Asset quality, structural cost positioning, and structural unit economics without relying on speculative DCF modeling.
 
 ### 🌾 Materials & Upstream Inputs
