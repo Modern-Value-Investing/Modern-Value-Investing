@@ -13,7 +13,7 @@ Welcome to my independent investment research library. This repository contains 
 ### 🌾 Materials & Upstream Inputs
 * **[North American Nitrogen Cost Curve Report (PDF)](<./library/materials-inputs/THE-NITROGEN-CURVE.pdf>)**
   * *Focus:* Deep-dive 46-page industry structural analysis mapping corporate margin durability, global feedstock arbitrage, and nitrogen cost-curve mechanics.
-* **[North American Natural Gas Market Framework (PDF)](<./library/materials-inputs/North-American-Natural-Gas-Market-Framework.pdf>)**
+* **[North American Natural Gas Market Framework](library/materials-inputs/North-American-Natural-Gas-Market-Framework.pdf)**
   * *Focus:* Upstream structural analysis mapping regional basis differentials, physical pipeline constraints, and hydrocarbon composition dynamics acting as the primary feedstock cost-driver for downstream nitrogen production.
 
 ### 🛠️ Precious Metals
