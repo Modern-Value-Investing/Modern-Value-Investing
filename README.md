@@ -3,6 +3,9 @@ Markdown
 Welcome to my independent investment research library. This repository contains my multi-asset frameworks, global cost curves, and capital allocation theses.
 
 ---
+## 🌐 Macro & Market Intelligence
+Monthly analysis of U.S. and Canadian macroeconomic developments, global markets, and their implications for investment decisions.
+* ** 2026-10-Macro-Market-Intelligence (PDF)
 
 ## 🏛️ Commodity & Hard-Asset Research Library
 
