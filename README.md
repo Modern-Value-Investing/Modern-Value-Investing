@@ -6,7 +6,7 @@ Welcome to my independent investment research library. This repository contains 
 ## 🌐 Macro & Market Intelligence
 Monthly analysis of U.S. and Canadian macroeconomic developments, global markets, and their implications for investment decisions.
 * **[October 2026 — Macro & Market Intelligence Report (PDF)](<./macro-market-intelligence/2026-10-Macro-Market-Intelligence.pdf>)**
-*  *Focus: Energy prices, Treasury yields, inflation risks, the U.S. federal interest burden, foreign Treasury demand, and implications for equity valuations.
+  * *Focus: Energy prices, Treasury yields, inflation risks, the U.S. federal interest burden, foreign Treasury demand, and implications for equity valuations.
 
 ## 🏛️ Commodity & Hard-Asset Research Library
 
